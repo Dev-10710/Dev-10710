@@ -69,7 +69,7 @@ A smart transportation solution designed to improve college bus management and s
 - Student verification and attendance monitoring.
 - Administrator interface for transportation management.
 
-**My Contribution:**Fingerprint verification hardware, attendance logic.
+**My Contribution:** Fingerprint verification hardware, attendance logic.
 
 <sub> Project Status: Under Development</sub>
 
