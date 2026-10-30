@@ -104,10 +104,12 @@ An AI-assisted camera system designed to help users understand visual informatio
 
 ## 📜 Certifications
 
-- AI Upskilling – Hands-On Development from Model to App | Qualcomm Academy & Arduino (2026)
-- Electronics System Design Tools | ReverTech (2025)
-- Introduction to Flask | IEEE Computer Society (2024)
-- Artificial Intelligence with Python | Techmaghi – KSHITIJ, IIT Kharagpur (2024)
+## 📜 Certifications
+
+- [Qualcomm AI Upskilling](https://github.com/Dev-10710/certificates)
+- [Electronics System Design Tools](https://github.com/Dev-10710/certificates)
+- [Introduction to Flask](https://github.com/Dev-10710/certificates)
+- [AI with Python](https://github.com/Dev-10710/certificates)
 
 ---
 ## 🎯 Current Goals
