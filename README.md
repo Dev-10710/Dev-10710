@@ -104,8 +104,6 @@ An AI-assisted camera system designed to help users understand visual informatio
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
 - [Qualcomm AI Upskilling](https://github.com/Dev-10710/certificates)
 - [Electronics System Design Tools](https://github.com/Dev-10710/certificates)
 - [Introduction to Flask](https://github.com/Dev-10710/certificates)
